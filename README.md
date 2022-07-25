@@ -1,10 +1,14 @@
 # COMPASS CRA 分享会 REPO
 
-## Table of Contents
+If you like this, please give me your *star*!
+Thanks!
 
-- [slides](./slides.pdf)
-- [makefile](./makefile)
-- [mythical](./mythical)
+## Resource List
+
+- [Slides](./slides.pdf)
+- [Video](./placeholder)
+- [`makefile` Example](./makefile)
+- [Mythical Bug Example](./mythical)
 
 ## Appendix
 
