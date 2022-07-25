@@ -1,0 +1,503 @@
+GNU Make 4.3
+Built for x86_64-pc-linux-gnu
+Copyright (C) 1988-2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Reading makefiles...
+Reading makefile 'makefile'...
+Updating makefiles....
+ Considering target file 'makefile'.
+  Looking for an implicit rule for 'makefile'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.o'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.c'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.cc'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.C'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.cpp'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.p'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.f'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.F'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.m'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.r'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.s'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.S'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.mod'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.sh'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile,v'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'RCS/makefile,v'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'RCS/makefile'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 's.makefile'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'SCCS/s.makefile'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.o'.
+  Looking for a rule with intermediate file 'makefile.o'.
+   Avoiding implicit rule recursion.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.c'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.cc'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.C'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.cpp'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.p'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.f'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.F'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.m'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.r'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.s'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.S'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.mod'.
+   Trying pattern rule with stem 'makefile.o'.
+   Trying implicit prerequisite 'makefile.o,v'.
+   Trying pattern rule with stem 'makefile.o'.
+   Trying implicit prerequisite 'RCS/makefile.o,v'.
+   Trying pattern rule with stem 'makefile.o'.
+   Trying implicit prerequisite 'RCS/makefile.o'.
+   Trying pattern rule with stem 'makefile.o'.
+   Trying implicit prerequisite 's.makefile.o'.
+   Trying pattern rule with stem 'makefile.o'.
+   Trying implicit prerequisite 'SCCS/s.makefile.o'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.c'.
+   Looking for a rule with intermediate file 'makefile.c'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.y'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.l'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.w'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.w'.
+    Trying pattern rule with stem 'makefile.c'.
+    Trying implicit prerequisite 'makefile.c,v'.
+    Trying pattern rule with stem 'makefile.c'.
+    Trying implicit prerequisite 'RCS/makefile.c,v'.
+    Trying pattern rule with stem 'makefile.c'.
+    Trying implicit prerequisite 'RCS/makefile.c'.
+    Trying pattern rule with stem 'makefile.c'.
+    Trying implicit prerequisite 's.makefile.c'.
+    Trying pattern rule with stem 'makefile.c'.
+    Trying implicit prerequisite 'SCCS/s.makefile.c'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.y'.
+    Looking for a rule with intermediate file 'makefile.y'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.y'.
+     Trying implicit prerequisite 'makefile.y,v'.
+     Trying pattern rule with stem 'makefile.y'.
+     Trying implicit prerequisite 'RCS/makefile.y,v'.
+     Trying pattern rule with stem 'makefile.y'.
+     Trying implicit prerequisite 'RCS/makefile.y'.
+     Trying pattern rule with stem 'makefile.y'.
+     Trying implicit prerequisite 's.makefile.y'.
+     Trying pattern rule with stem 'makefile.y'.
+     Trying implicit prerequisite 'SCCS/s.makefile.y'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.l'.
+    Looking for a rule with intermediate file 'makefile.l'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.l'.
+     Trying implicit prerequisite 'makefile.l,v'.
+     Trying pattern rule with stem 'makefile.l'.
+     Trying implicit prerequisite 'RCS/makefile.l,v'.
+     Trying pattern rule with stem 'makefile.l'.
+     Trying implicit prerequisite 'RCS/makefile.l'.
+     Trying pattern rule with stem 'makefile.l'.
+     Trying implicit prerequisite 's.makefile.l'.
+     Trying pattern rule with stem 'makefile.l'.
+     Trying implicit prerequisite 'SCCS/s.makefile.l'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.w'.
+    Looking for a rule with intermediate file 'makefile.w'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.w'.
+     Trying implicit prerequisite 'makefile.w,v'.
+     Trying pattern rule with stem 'makefile.w'.
+     Trying implicit prerequisite 'RCS/makefile.w,v'.
+     Trying pattern rule with stem 'makefile.w'.
+     Trying implicit prerequisite 'RCS/makefile.w'.
+     Trying pattern rule with stem 'makefile.w'.
+     Trying implicit prerequisite 's.makefile.w'.
+     Trying pattern rule with stem 'makefile.w'.
+     Trying implicit prerequisite 'SCCS/s.makefile.w'.
+    Trying pattern rule with stem 'makefile'.
+    Rejecting impossible implicit prerequisite 'makefile.w'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.cc'.
+   Looking for a rule with intermediate file 'makefile.cc'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile.cc'.
+    Trying implicit prerequisite 'makefile.cc,v'.
+    Trying pattern rule with stem 'makefile.cc'.
+    Trying implicit prerequisite 'RCS/makefile.cc,v'.
+    Trying pattern rule with stem 'makefile.cc'.
+    Trying implicit prerequisite 'RCS/makefile.cc'.
+    Trying pattern rule with stem 'makefile.cc'.
+    Trying implicit prerequisite 's.makefile.cc'.
+    Trying pattern rule with stem 'makefile.cc'.
+    Trying implicit prerequisite 'SCCS/s.makefile.cc'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.C'.
+   Looking for a rule with intermediate file 'makefile.C'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile.C'.
+    Trying implicit prerequisite 'makefile.C,v'.
+    Trying pattern rule with stem 'makefile.C'.
+    Trying implicit prerequisite 'RCS/makefile.C,v'.
+    Trying pattern rule with stem 'makefile.C'.
+    Trying implicit prerequisite 'RCS/makefile.C'.
+    Trying pattern rule with stem 'makefile.C'.
+    Trying implicit prerequisite 's.makefile.C'.
+    Trying pattern rule with stem 'makefile.C'.
+    Trying implicit prerequisite 'SCCS/s.makefile.C'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.cpp'.
+   Looking for a rule with intermediate file 'makefile.cpp'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile.cpp'.
+    Trying implicit prerequisite 'makefile.cpp,v'.
+    Trying pattern rule with stem 'makefile.cpp'.
+    Trying implicit prerequisite 'RCS/makefile.cpp,v'.
+    Trying pattern rule with stem 'makefile.cpp'.
+    Trying implicit prerequisite 'RCS/makefile.cpp'.
+    Trying pattern rule with stem 'makefile.cpp'.
+    Trying implicit prerequisite 's.makefile.cpp'.
+    Trying pattern rule with stem 'makefile.cpp'.
+    Trying implicit prerequisite 'SCCS/s.makefile.cpp'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.p'.
+   Looking for a rule with intermediate file 'makefile.p'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.web'.
+    Trying pattern rule with stem 'makefile.p'.
+    Trying implicit prerequisite 'makefile.p,v'.
+    Trying pattern rule with stem 'makefile.p'.
+    Trying implicit prerequisite 'RCS/makefile.p,v'.
+    Trying pattern rule with stem 'makefile.p'.
+    Trying implicit prerequisite 'RCS/makefile.p'.
+    Trying pattern rule with stem 'makefile.p'.
+    Trying implicit prerequisite 's.makefile.p'.
+    Trying pattern rule with stem 'makefile.p'.
+    Trying implicit prerequisite 'SCCS/s.makefile.p'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.web'.
+    Looking for a rule with intermediate file 'makefile.web'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.web'.
+     Trying implicit prerequisite 'makefile.web,v'.
+     Trying pattern rule with stem 'makefile.web'.
+     Trying implicit prerequisite 'RCS/makefile.web,v'.
+     Trying pattern rule with stem 'makefile.web'.
+     Trying implicit prerequisite 'RCS/makefile.web'.
+     Trying pattern rule with stem 'makefile.web'.
+     Trying implicit prerequisite 's.makefile.web'.
+     Trying pattern rule with stem 'makefile.web'.
+     Trying implicit prerequisite 'SCCS/s.makefile.web'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.f'.
+   Looking for a rule with intermediate file 'makefile.f'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.F'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.r'.
+    Trying pattern rule with stem 'makefile.f'.
+    Trying implicit prerequisite 'makefile.f,v'.
+    Trying pattern rule with stem 'makefile.f'.
+    Trying implicit prerequisite 'RCS/makefile.f,v'.
+    Trying pattern rule with stem 'makefile.f'.
+    Trying implicit prerequisite 'RCS/makefile.f'.
+    Trying pattern rule with stem 'makefile.f'.
+    Trying implicit prerequisite 's.makefile.f'.
+    Trying pattern rule with stem 'makefile.f'.
+    Trying implicit prerequisite 'SCCS/s.makefile.f'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.F'.
+    Looking for a rule with intermediate file 'makefile.F'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.F'.
+     Trying implicit prerequisite 'makefile.F,v'.
+     Trying pattern rule with stem 'makefile.F'.
+     Trying implicit prerequisite 'RCS/makefile.F,v'.
+     Trying pattern rule with stem 'makefile.F'.
+     Trying implicit prerequisite 'RCS/makefile.F'.
+     Trying pattern rule with stem 'makefile.F'.
+     Trying implicit prerequisite 's.makefile.F'.
+     Trying pattern rule with stem 'makefile.F'.
+     Trying implicit prerequisite 'SCCS/s.makefile.F'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.r'.
+    Looking for a rule with intermediate file 'makefile.r'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile'.
+     Rejecting impossible implicit prerequisite 'makefile.l'.
+     Trying pattern rule with stem 'makefile.r'.
+     Trying implicit prerequisite 'makefile.r,v'.
+     Trying pattern rule with stem 'makefile.r'.
+     Trying implicit prerequisite 'RCS/makefile.r,v'.
+     Trying pattern rule with stem 'makefile.r'.
+     Trying implicit prerequisite 'RCS/makefile.r'.
+     Trying pattern rule with stem 'makefile.r'.
+     Trying implicit prerequisite 's.makefile.r'.
+     Trying pattern rule with stem 'makefile.r'.
+     Trying implicit prerequisite 'SCCS/s.makefile.r'.
+   Trying pattern rule with stem 'makefile'.
+   Rejecting impossible implicit prerequisite 'makefile.F'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.m'.
+   Looking for a rule with intermediate file 'makefile.m'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.ym'.
+    Trying pattern rule with stem 'makefile.m'.
+    Trying implicit prerequisite 'makefile.m,v'.
+    Trying pattern rule with stem 'makefile.m'.
+    Trying implicit prerequisite 'RCS/makefile.m,v'.
+    Trying pattern rule with stem 'makefile.m'.
+    Trying implicit prerequisite 'RCS/makefile.m'.
+    Trying pattern rule with stem 'makefile.m'.
+    Trying implicit prerequisite 's.makefile.m'.
+    Trying pattern rule with stem 'makefile.m'.
+    Trying implicit prerequisite 'SCCS/s.makefile.m'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.ym'.
+    Looking for a rule with intermediate file 'makefile.ym'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.ym'.
+     Trying implicit prerequisite 'makefile.ym,v'.
+     Trying pattern rule with stem 'makefile.ym'.
+     Trying implicit prerequisite 'RCS/makefile.ym,v'.
+     Trying pattern rule with stem 'makefile.ym'.
+     Trying implicit prerequisite 'RCS/makefile.ym'.
+     Trying pattern rule with stem 'makefile.ym'.
+     Trying implicit prerequisite 's.makefile.ym'.
+     Trying pattern rule with stem 'makefile.ym'.
+     Trying implicit prerequisite 'SCCS/s.makefile.ym'.
+   Trying pattern rule with stem 'makefile'.
+   Rejecting impossible implicit prerequisite 'makefile.r'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.s'.
+   Looking for a rule with intermediate file 'makefile.s'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.S'.
+    Trying pattern rule with stem 'makefile.s'.
+    Trying implicit prerequisite 'makefile.s,v'.
+    Trying pattern rule with stem 'makefile.s'.
+    Trying implicit prerequisite 'RCS/makefile.s,v'.
+    Trying pattern rule with stem 'makefile.s'.
+    Trying implicit prerequisite 'RCS/makefile.s'.
+    Trying pattern rule with stem 'makefile.s'.
+    Trying implicit prerequisite 's.makefile.s'.
+    Trying pattern rule with stem 'makefile.s'.
+    Trying implicit prerequisite 'SCCS/s.makefile.s'.
+    Trying pattern rule with stem 'makefile'.
+    Trying implicit prerequisite 'makefile.S'.
+    Looking for a rule with intermediate file 'makefile.S'.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Avoiding implicit rule recursion.
+     Trying pattern rule with stem 'makefile.S'.
+     Trying implicit prerequisite 'makefile.S,v'.
+     Trying pattern rule with stem 'makefile.S'.
+     Trying implicit prerequisite 'RCS/makefile.S,v'.
+     Trying pattern rule with stem 'makefile.S'.
+     Trying implicit prerequisite 'RCS/makefile.S'.
+     Trying pattern rule with stem 'makefile.S'.
+     Trying implicit prerequisite 's.makefile.S'.
+     Trying pattern rule with stem 'makefile.S'.
+     Trying implicit prerequisite 'SCCS/s.makefile.S'.
+   Trying pattern rule with stem 'makefile'.
+   Rejecting impossible implicit prerequisite 'makefile.S'.
+   Trying pattern rule with stem 'makefile'.
+   Trying implicit prerequisite 'makefile.mod'.
+   Looking for a rule with intermediate file 'makefile.mod'.
+    Avoiding implicit rule recursion.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'makefile.mod'.
+    Trying implicit prerequisite 'makefile.mod,v'.
+    Trying pattern rule with stem 'makefile.mod'.
+    Trying implicit prerequisite 'RCS/makefile.mod,v'.
+    Trying pattern rule with stem 'makefile.mod'.
+    Trying implicit prerequisite 'RCS/makefile.mod'.
+    Trying pattern rule with stem 'makefile.mod'.
+    Trying implicit prerequisite 's.makefile.mod'.
+    Trying pattern rule with stem 'makefile.mod'.
+    Trying implicit prerequisite 'SCCS/s.makefile.mod'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.c'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.cc'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.C'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.cpp'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.p'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.f'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.F'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.m'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.r'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.s'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.S'.
+  Trying pattern rule with stem 'makefile'.
+  Rejecting impossible implicit prerequisite 'makefile.mod'.
+  Trying pattern rule with stem 'makefile'.
+  Trying implicit prerequisite 'makefile.sh'.
+  Looking for a rule with intermediate file 'makefile.sh'.
+   Avoiding implicit rule recursion.
+   Trying pattern rule with stem 'makefile.sh'.
+   Trying implicit prerequisite 'makefile.sh,v'.
+   Trying pattern rule with stem 'makefile.sh'.
+   Trying implicit prerequisite 'RCS/makefile.sh,v'.
+   Trying pattern rule with stem 'makefile.sh'.
+   Trying implicit prerequisite 'RCS/makefile.sh'.
+   Trying pattern rule with stem 'makefile.sh'.
+   Trying implicit prerequisite 's.makefile.sh'.
+   Trying pattern rule with stem 'makefile.sh'.
+   Trying implicit prerequisite 'SCCS/s.makefile.sh'.
+  No implicit rule found for 'makefile'.
+  Finished prerequisites of target file 'makefile'.
+ No need to remake target 'makefile'.
+Updating goal targets....
+Considering target file 'hello'.
+ File 'hello' does not exist.
+ Looking for an implicit rule for 'hello'.
+ Trying pattern rule with stem 'hello'.
+ Trying implicit prerequisite 'hello.o'.
+ Trying pattern rule with stem 'hello'.
+ Trying implicit prerequisite 'hello.c'.
+ Found an implicit rule for 'hello'.
+  Considering target file 'hello.c'.
+   Looking for an implicit rule for 'hello.c'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.y'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.l'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.w'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.w'.
+   Trying pattern rule with stem 'hello.c'.
+   Trying implicit prerequisite 'hello.c,v'.
+   Trying pattern rule with stem 'hello.c'.
+   Trying implicit prerequisite 'RCS/hello.c,v'.
+   Trying pattern rule with stem 'hello.c'.
+   Trying implicit prerequisite 'RCS/hello.c'.
+   Trying pattern rule with stem 'hello.c'.
+   Trying implicit prerequisite 's.hello.c'.
+   Trying pattern rule with stem 'hello.c'.
+   Trying implicit prerequisite 'SCCS/s.hello.c'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.y'.
+   Looking for a rule with intermediate file 'hello.y'.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'hello.y'.
+    Trying implicit prerequisite 'hello.y,v'.
+    Trying pattern rule with stem 'hello.y'.
+    Trying implicit prerequisite 'RCS/hello.y,v'.
+    Trying pattern rule with stem 'hello.y'.
+    Trying implicit prerequisite 'RCS/hello.y'.
+    Trying pattern rule with stem 'hello.y'.
+    Trying implicit prerequisite 's.hello.y'.
+    Trying pattern rule with stem 'hello.y'.
+    Trying implicit prerequisite 'SCCS/s.hello.y'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.l'.
+   Looking for a rule with intermediate file 'hello.l'.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'hello.l'.
+    Trying implicit prerequisite 'hello.l,v'.
+    Trying pattern rule with stem 'hello.l'.
+    Trying implicit prerequisite 'RCS/hello.l,v'.
+    Trying pattern rule with stem 'hello.l'.
+    Trying implicit prerequisite 'RCS/hello.l'.
+    Trying pattern rule with stem 'hello.l'.
+    Trying implicit prerequisite 's.hello.l'.
+    Trying pattern rule with stem 'hello.l'.
+    Trying implicit prerequisite 'SCCS/s.hello.l'.
+   Trying pattern rule with stem 'hello'.
+   Trying implicit prerequisite 'hello.w'.
+   Looking for a rule with intermediate file 'hello.w'.
+    Avoiding implicit rule recursion.
+    Trying pattern rule with stem 'hello.w'.
+    Trying implicit prerequisite 'hello.w,v'.
+    Trying pattern rule with stem 'hello.w'.
+    Trying implicit prerequisite 'RCS/hello.w,v'.
+    Trying pattern rule with stem 'hello.w'.
+    Trying implicit prerequisite 'RCS/hello.w'.
+    Trying pattern rule with stem 'hello.w'.
+    Trying implicit prerequisite 's.hello.w'.
+    Trying pattern rule with stem 'hello.w'.
+    Trying implicit prerequisite 'SCCS/s.hello.w'.
+   Trying pattern rule with stem 'hello'.
+   Rejecting impossible implicit prerequisite 'hello.w'.
+   No implicit rule found for 'hello.c'.
+   Finished prerequisites of target file 'hello.c'.
+  No need to remake target 'hello.c'.
+ Finished prerequisites of target file 'hello'.
+Must remake target 'hello'.
+cc     hello.c   -o hello
+Putting child 0x55764f3816b0 (hello) PID 6309 on the chain.
+Live child 0x55764f3816b0 (hello) PID 6309 
+Reaping winning child 0x55764f3816b0 PID 6309 
+Removing child 0x55764f3816b0 PID 6309 from chain.
+Successfully remade target file 'hello'.
