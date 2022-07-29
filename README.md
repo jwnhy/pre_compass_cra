@@ -6,7 +6,7 @@ Thanks!
 ## Resource List
 
 - [Slides](./slides.pdf)
-- [Video](./placeholder)
+- [Video](https://www.bilibili.com/video/bv1kS4y1t7B5?vd_source=2254169ce75ebd5849a4988545df5ddd)
 - [`makefile` Example](./makefile)
 - [Mythical Bug Example](./mythical)
 
