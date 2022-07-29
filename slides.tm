@@ -3,7 +3,7 @@
 <style|<tuple|beamer|blackboard|british>>
 
 <\body>
-  <screens|<\hidden>
+  <screens|<\shown>
     <tit|>
 
     <doc-data|<doc-title|A Map to OS/CS/Paper>|<doc-author|<author-data|<author-name|jwnhy>|<\author-affiliation>
@@ -21,7 +21,7 @@
 
       <item>Some personal BS included.
     </enumerate>>
-  </hidden>|<\hidden>
+  </shown>|<\hidden>
     <tit|Who am I?>
 
     Name: Hongyi Lu (@jwnhy)
@@ -213,7 +213,7 @@
       <verbatim|hello> or <verbatim|he1lo> this is a question. (special
       thanks to Jerry Lu)
     </note*>
-  </hidden>|<\shown>
+  </hidden>|<\hidden>
     <tit|Case Study: A Mythical Bug>
 
     <paragraph|Description:>
@@ -240,7 +240,7 @@
 
       <item>How to solve them?
     </enumerate>
-  </shown>|<\hidden>
+  </hidden>|<\hidden>
     <tit|Things You'll Need (System)>
 
     <\itemize>
@@ -434,6 +434,31 @@
       Both academic papers and community weird stuff can be found.
     </itemize>
   </hidden>|<\hidden>
+    <tit|Some Random Source>
+
+    <paragraph|YouTube>
+
+    <\itemize>
+      <item><hlink|LiveOverflow|https://www.youtube.com/c/LiveOverflow>:
+      Hacking, CTF.
+
+      <item><hlink|PwnFunction|https://www.youtube.com/c/PwnFunction>: CTF.
+
+      <item><hlink|Computerphile|https://www.youtube.com/user/Computerphile>:
+      General CS.
+
+      <item><hlink|NDCC|https://www.youtube.com/c/NDCConferences>: Gerneral
+      CS.
+    </itemize>
+
+    <paragraph|Conference & Journal>
+
+    <\itemize>
+      <item>BlackHat {USA, Asia, Euro}, CCC (Chaos Communication Congress)
+
+      <item>DEFCON, Phrack<text-dots>
+    </itemize>
+  </hidden>|<\hidden>
     <tit|How to generate new idea?>
 
     <\itemize>
@@ -520,8 +545,8 @@
     Acknowledgement:
 
     <\itemize>
-      <item>Jerry Lu, Ziqin Wang, Fengwei Zhang, Adrian Rowland, Yuki,
-      Kaixin.
+      <item>Jerry Lu, Ziqin Wang, Zhao Li, Fengwei Zhang, Adrian Rowland,
+      Yuki, Kaixin.
     </itemize>
   </hidden>>
 </body>
@@ -547,7 +572,7 @@
     <associate|auto-10|<tuple|10|1>>
     <associate|auto-11|<tuple|11|1>>
     <associate|auto-12|<tuple|12|1>>
-    <associate|auto-13|<tuple|13|?>>
+    <associate|auto-13|<tuple|13|1>>
     <associate|auto-14|<tuple|14|1>>
     <associate|auto-15|<tuple|15|1>>
     <associate|auto-16|<tuple|16|1>>
@@ -561,10 +586,12 @@
     <associate|auto-23|<tuple|23|?>>
     <associate|auto-24|<tuple|24|?>>
     <associate|auto-25|<tuple|25|?>>
-    <associate|auto-26|<tuple|26|?>>
+    <associate|auto-26|<tuple|26|1>>
     <associate|auto-27|<tuple|27|?>>
     <associate|auto-28|<tuple|28|?>>
+    <associate|auto-29|<tuple|29|?>>
     <associate|auto-3|<tuple|3|1>>
+    <associate|auto-30|<tuple|30|?>>
     <associate|auto-4|<tuple|4|1>>
     <associate|auto-5|<tuple|5|1>>
     <associate|auto-6|<tuple|6|1>>
@@ -679,13 +706,21 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-26><vspace|0.15fn>>
 
-      <with|par-left|<quote|4tab>|How important?
+      <with|par-left|<quote|4tab>|YouTube
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-27><vspace|0.15fn>>
 
-      <with|par-left|<quote|4tab>|How to improve it?
+      <with|par-left|<quote|4tab>|Conference & Journal
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-28><vspace|0.15fn>>
+
+      <with|par-left|<quote|4tab>|How important?
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-29><vspace|0.15fn>>
+
+      <with|par-left|<quote|4tab>|How to improve it?
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-30><vspace|0.15fn>>
     </associate>
   </collection>
 </auxiliary>
